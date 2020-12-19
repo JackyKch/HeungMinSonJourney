@@ -1,0 +1,39 @@
+﻿Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+2017-08-13,Matchweek 1,Away,W 2–0,Tottenham,Newcastle Utd,N,RW,32,0,0,0,0,0,0,0,0,27,7,0,0,0,0.0,0.0,0.0,2,0,23,25,92.0,98,16,47,0,1
+2017-08-20,Matchweek 2,Home,L 1–2,Tottenham,Chelsea,N,AM,22,0,0,0,0,0,0,0,0,16,5,2,0,0,0.0,0.0,0.0,0,0,10,13,76.9,6,9,2,0,1
+2017-08-27,Matchweek 3,Home,D 1–1,Tottenham,Burnley,Y,RW,70,0,0,0,0,1,0,0,0,44,11,0,0,1,0.0,0.0,0.2,3,0,30,36,83.3,93,32,94,0,2
+2017-09-09,Matchweek 4,Away,W 3–0,Tottenham,Everton,N,FW,5,0,0,0,0,0,0,0,0,5,3,0,0,0,0.0,0.0,0.0,1,0,4,4,100.0,7,4,9,0,0
+2017-09-16,Matchweek 5,Home,D 0–0,Tottenham,Swansea City,Y,WB,74,0,0,0,0,6,3,0,0,58,5,2,0,1,0.5,0.5,0.2,8,0,38,42,90.5,93,42,83,0,3
+2017-09-23,Matchweek 6,Away,W 3–2,Tottenham,West Ham,N,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m
+2017-09-30,Matchweek 7,Away,W 4–0,Tottenham,Huddersfield,N,FW,3,0,0,0,0,0,0,0,0,1,4,0,0,0,0.0,0.0,0.0,1,1,1,1,100.0,19,1,17,0,0
+2017-10-14,Matchweek 8,Home,W 1–0,Tottenham,Bournemouth,Y,AM,75,0,0,0,0,1,0,0,0,40,17,3,0,1,0.0,0.0,0.1,2,1,24,26,92.3,47,30,80,2,3
+2017-10-22,Matchweek 9,Home,W 4–1,Tottenham,Liverpool,Y,FW,69,1,0,0,0,3,2,0,0,21,23,0,0,2,0.7,0.7,0.0,0,0,11,15,73.3,45,13,118,0,1
+2017-10-28,Matchweek 10,Away,L 0–1,Tottenham,Manchester Utd,Y,FW,62,0,0,0,0,1,0,0,0,27,7,1,0,1,0.0,0.0,0.0,3,0,16,19,84.2,17,22,93,0,0
+2017-11-05,Matchweek 11,Home,W 1–0,Tottenham,Crystal Palace,Y,FW,90,1,0,0,0,2,1,0,0,42,18,2,0,1,0.3,0.3,0.0,1,0,20,27,74.1,55,32,169,2,3
+2017-11-18,Matchweek 12,Away,L 0–2,Tottenham,Arsenal,N,FW,15,0,0,0,0,2,0,0,0,9,3,0,0,0,0.3,0.3,0.0,0,0,4,6,66.7,0,8,20,0,0
+2017-11-25,Matchweek 13,Home,D 1–1,Tottenham,West Brom,Y,FW,90,0,0,0,0,4,1,0,0,77,13,0,0,0,0.1,0.1,0.1,4,0,49,62,79.0,101,79,319,5,6
+2017-11-28,Matchweek 14,Away,L 1–2,Tottenham,Leicester City,N,AMDM,33,0,0,0,0,0,0,0,0,23,7,0,0,0,0.0,0.0,0.1,2,1,18,22,81.8,85,26,66,3,4
+2017-12-02,Matchweek 15,Away,D 1–1,Tottenham,Watford,Y,LW,77,1,0,0,0,1,1,0,0,24,15,0,0,0,0.8,0.8,0.0,0,0,11,16,68.8,28,19,43,1,3
+2017-12-09,Matchweek 16,Home,W 5–1,Tottenham,Stoke City,Y,LW,86,1,1,0,0,4,3,0,0,51,14,0,1,0,0.3,0.3,1.4,8,1,29,38,76.3,131,47,450,2,2
+2017-12-13,Matchweek 17,Home,W 2–0,Tottenham,Brighton,Y,LWRW,90,1,0,0,0,4,1,0,0,53,22,0,1,1,0.7,0.7,0.1,2,0,36,41,87.8,127,46,106,1,1
+2017-12-16,Matchweek 18,Away,L 1–4,Tottenham,Manchester City,Y,FW,77,0,0,0,0,1,0,0,0,25,13,1,0,1,0.0,0.0,0.0,1,0,14,17,82.4,34,18,62,1,1
+2017-12-23,Matchweek 19,Away,W 3–0,Tottenham,Burnley,Y,LW,78,0,0,0,0,3,1,0,0,43,13,1,0,1,0.5,0.5,0.2,2,0,24,32,75.0,82,29,175,2,2
+2017-12-26,Matchweek 20,Home,W 5–2,Tottenham,Southampton,Y,LW,76,1,2,0,0,1,1,0,0,41,17,3,0,0,0.4,0.4,0.9,4,3,23,31,74.2,113,34,167,2,2
+2018-01-02,Matchweek 22,Away,W 2–0,Tottenham,Swansea City,Y,LW,90,0,0,0,0,2,0,0,0,63,19,0,1,0,0.1,0.1,0.0,2,1,40,48,83.3,160,56,195,2,5
+2018-01-04,Matchweek 21,Home,D 1–1,Tottenham,West Ham,Y,LWRW,90,1,0,0,0,3,2,0,0,77,14,1,1,1,0.2,0.2,0.0,4,0,50,62,80.6,159,77,332,9,12
+2018-01-13,Matchweek 23,Home,W 4–0,Tottenham,Everton,Y,LW,90,1,1,0,0,7,2,0,0,46,16,1,0,0,1.4,1.4,0.2,6,2,27,33,81.8,109,40,265,3,4
+2018-01-21,Matchweek 24,Away,D 1–1,Tottenham,Southampton,Y,LW,70,0,0,0,0,0,0,0,0,30,12,1,0,2,0.0,0.0,0.0,0,0,22,24,91.7,52,19,25,0,2
+2018-01-31,Matchweek 25,Home,W 2–0,Tottenham,Manchester Utd,Y,LW,80,0,0,0,0,3,1,0,0,49,10,0,0,5,0.3,0.3,0.1,6,0,28,35,80.0,122,39,109,0,1
+2018-02-04,Matchweek 26,Away,D 2–2,Tottenham,Liverpool,Y,FW,90,0,0,0,0,2,1,0,0,35,8,0,0,0,0.2,0.2,0.0,1,1,20,29,69.0,32,24,98,0,0
+2018-02-10,Matchweek 27,Home,W 1–0,Tottenham,Arsenal,Y,LW,70,0,0,0,0,2,1,0,0,52,4,0,0,1,0.1,0.1,0.0,3,0,28,42,66.7,48,44,270,6,10
+2018-02-25,Matchweek 28,Away,W 1–0,Tottenham,Crystal Palace,N,CM,10,0,0,0,0,0,0,0,0,10,0,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,20,8,85,0,0
+2018-03-03,Matchweek 29,Home,W 2–0,Tottenham,Huddersfield,Y,LW,70,2,0,0,0,4,2,0,0,40,11,2,0,0,0.9,0.9,0.3,4,1,23,26,88.5,87,35,167,4,4
+2018-03-11,Matchweek 30,Away,W 4–1,Tottenham,Bournemouth,Y,LW,90,2,0,0,0,5,4,0,0,43,7,0,1,2,1.2,1.2,0.0,3,3,24,32,75.0,92,34,208,1,1
+2018-04-01,Matchweek 32,Away,W 3–1,Tottenham,Chelsea,Y,FWRW,74,0,0,0,0,3,3,0,0,38,13,0,0,0,0.2,0.2,0.0,3,1,24,29,82.8,88,29,68,0,1
+2018-04-07,Matchweek 33,Away,W 2–1,Tottenham,Stoke City,Y,LM,67,0,0,0,0,2,1,0,0,33,8,0,0,0,0.4,0.4,0.0,1,0,20,24,83.3,35,33,137,2,4
+2018-04-14,Matchweek 34,Home,L 1–3,Tottenham,Manchester City,N,FWAM,26,0,0,0,0,1,0,0,0,18,7,0,0,1,0.0,0.0,0.0,0,0,12,14,85.7,23,13,41,0,0
+2018-04-17,Matchweek 35,Away,D 1–1,Tottenham,Brighton,Y,LW,90,0,1,0,0,3,2,0,0,43,9,0,2,1,0.2,0.2,0.5,4,2,20,26,76.9,17,34,172,2,4
+2018-04-30,Matchweek 36,Home,W 2–0,Tottenham,Watford,Y,LW,74,0,0,0,0,0,0,0,0,39,29,1,1,0,0.0,0.0,0.1,3,1,17,26,65.4,46,34,123,2,4
+2018-05-05,Matchweek 37,Away,L 0–1,Tottenham,West Brom,N,AMLW,23,0,0,0,0,1,1,0,0,14,1,0,0,0,0.0,0.0,0.0,2,0,8,9,88.9,19,11,30,0,1
+2018-05-09,Matchweek 31,Home,W 1–0,Tottenham,Newcastle Utd,Y,LM,77,0,1,0,0,0,0,0,0,43,9,0,0,0,0.0,0.0,0.2,2,1,25,34,73.5,62,40,66,0,0
+2018-05-13,Matchweek 38,Home,W 5–4,Tottenham,Leicester City,N,FW,6,0,0,0,0,0,0,0,0,4,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,4,1,0,0,0

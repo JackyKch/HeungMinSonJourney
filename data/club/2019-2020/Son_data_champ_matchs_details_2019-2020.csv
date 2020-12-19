@@ -1,0 +1,31 @@
+﻿Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Press,Tkl,Int,Blocks,xG,npxG,xA,SCA,GCA,Cmp,Att,Cmp%,PrgDist,Carries,PrgDist,Succ,Att
+2019-08-25,Matchweek 3,Home,L 0–1,Tottenham,Newcastle Utd,Y,LW,90,0,0,0,0,6,2,0,0,74,11,0,0,1,0.2,0.2,0.0,6,0,53,59,89.8,84,62,173,5,9
+2019-09-01,Matchweek 4,Away,D 2–2,Tottenham,Arsenal,Y,LWRW,78,0,0,0,0,2,2,0,0,45,23,1,1,0,0.2,0.2,0.2,5,1,21,28,75.0,96,34,191,2,4
+2019-09-14,Matchweek 5,Home,W 4–0,Tottenham,Crystal Palace,Y,FW,90,2,0,0,0,6,3,0,0,42,22,3,0,0,0.5,0.5,0.0,4,2,25,30,83.3,72,28,103,0,0
+2019-09-21,Matchweek 6,Away,L 1–2,Tottenham,Leicester City,Y,FW,90,0,1,0,0,3,1,0,0,45,17,0,0,1,0.3,0.3,0.7,5,1,28,31,90.3,93,37,113,3,7
+2019-09-28,Matchweek 7,Home,W 2–1,Tottenham,Southampton,Y,FW,63,0,1,0,0,1,1,0,0,34,16,3,0,1,0.0,0.0,0.3,6,2,14,20,70.0,48,36,186,6,14
+2019-10-05,Matchweek 8,Away,L 0–3,Tottenham,Brighton,Y,LWAMRW,72,0,0,0,0,0,0,0,0,29,27,2,1,0,0.0,0.0,0.0,1,0,15,20,75.0,32,26,83,2,5
+2019-10-19,Matchweek 9,Home,D 1–1,Tottenham,Watford,N,RW,45,0,0,0,0,1,1,0,0,34,7,0,0,0,0.1,0.1,0.0,1,0,22,25,88.0,74,29,158,1,3
+2019-10-27,Matchweek 10,Away,L 1–2,Tottenham,Liverpool,Y,LW,90,0,0,0,0,5,1,0,0,40,28,4,1,0,0.5,0.5,0.0,3,1,17,21,81.0,67,30,151,2,4
+2019-11-03,Matchweek 11,Away,D 1–1,Tottenham,Everton,Y,RWFW,78,0,1,0,0,1,0,0,1,20,14,0,0,1,0.0,0.0,0.2,1,1,12,13,92.3,37,18,103,2,5
+2019-11-09,Matchweek 12,Home,D 1–1,Tottenham,Sheffield Utd,Y,LWAM,90,1,0,0,0,7,3,0,0,48,18,1,0,1,0.5,0.5,0.2,8,0,27,30,90.0,90,43,114,6,9
+2019-11-23,Matchweek 13,Away,W 3–2,Tottenham,West Ham,Y,LW,90,1,1,0,0,3,2,0,0,38,14,2,0,0,0.2,0.2,0.8,5,2,22,27,81.5,110,30,181,2,3
+2019-11-30,Matchweek 14,Home,W 3–2,Tottenham,Bournemouth,Y,LW,87,0,2,0,0,2,0,0,0,39,31,5,0,2,0.2,0.2,1.7,4,2,25,27,92.6,139,29,157,0,0
+2019-12-04,Matchweek 15,Away,L 1–2,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,1,0,0,0,52,19,0,0,3,0.1,0.1,0.0,2,0,36,44,81.8,118,41,168,7,8
+2019-12-07,Matchweek 16,Home,W 5–0,Tottenham,Burnley,Y,LW,90,1,1,0,0,3,2,0,0,46,14,0,1,0,0.7,0.7,0.5,8,4,24,31,77.4,157,34,329,5,7
+2019-12-15,Matchweek 17,Away,W 2–1,Tottenham,Wolves,Y,LW,89,0,0,0,0,1,1,0,0,35,19,1,0,0,0.2,0.2,0.0,1,0,21,25,84.0,97,30,96,3,3
+2019-12-22,Matchweek 18,Home,L 0–2,Tottenham,Chelsea,Y,LWAM,61,0,0,0,0,1,0,0,1,22,20,0,0,1,0.1,0.1,0.0,0,0,13,19,68.4,23,14,29,0,0
+2020-01-11,Matchweek 22,Home,L 0–1,Tottenham,Liverpool,Y,LM,90,0,0,0,0,4,1,0,0,26,19,2,1,0,0.4,0.4,0.0,4,0,15,16,93.8,68,20,155,1,3
+2020-01-18,Matchweek 23,Away,D 0–0,Tottenham,Watford,Y,LW,90,0,0,0,0,4,2,0,0,43,26,0,0,0,0.2,0.2,0.3,5,0,30,33,90.9,109,41,170,5,7
+2020-01-22,Matchweek 24,Home,W 2–1,Tottenham,Norwich City,Y,LWFW,90,1,0,0,0,5,1,0,0,48,32,0,1,0,1.0,1.0,0.0,1,1,24,31,77.4,54,33,116,0,2
+2020-02-02,Matchweek 25,Home,W 2–0,Tottenham,Manchester City,Y,RWLW,90,1,0,0,0,2,2,0,0,38,16,1,2,0,0.2,0.2,0.0,0,0,15,24,62.5,71,26,203,0,1
+2020-02-16,Matchweek 26,Away,W 3–2,Tottenham,Aston Villa,Y,FW,90,2,0,0,1,6,5,0,0,45,24,0,0,3,1.8,1.0,0.3,4,1,14,23,60.9,43,24,130,2,4
+2020-06-19,Matchweek 30,Home,D 1–1,Tottenham,Manchester Utd,Y,LW,90,0,0,0,0,4,2,0,0,57,23,2,2,5,0.1,0.1,0.1,1,0,26,36,72.2,156,33,74,1,2
+2020-06-23,Matchweek 31,Home,W 2–0,Tottenham,West Ham,Y,LW,85,0,1,0,0,0,0,0,0,55,10,0,0,3,0.0,0.0,0.6,4,1,40,45,88.9,186,39,164,1,1
+2020-07-02,Matchweek 32,Away,L 1–3,Tottenham,Sheffield Utd,Y,LWWB,90,0,1,0,0,0,0,0,0,45,14,0,1,1,0.0,0.0,0.7,3,1,31,41,75.6,106,31,138,1,1
+2020-07-06,Matchweek 33,Home,W 1–0,Tottenham,Everton,Y,LW,77,0,0,0,0,4,2,0,0,41,14,0,0,0,0.2,0.2,0.1,5,0,25,34,73.5,57,23,78,2,2
+2020-07-09,Matchweek 34,Away,D 0–0,Tottenham,Bournemouth,N,LW,45,0,0,0,0,1,0,0,0,39,4,1,0,1,0.2,0.2,0.0,1,0,23,33,69.7,111,23,58,0,0
+2020-07-12,Matchweek 35,Home,W 2–1,Tottenham,Arsenal,Y,AM,89,1,1,0,0,3,2,0,0,38,27,1,0,1,0.6,0.6,0.2,4,1,19,29,65.5,80,27,133,2,3
+2020-07-15,Matchweek 36,Away,W 3–1,Tottenham,Newcastle Utd,Y,LWAM,90,1,0,0,0,2,2,0,0,45,15,1,0,0,0.1,0.1,0.0,0,0,32,39,82.1,46,33,78,1,1
+2020-07-19,Matchweek 37,Home,W 3–0,Tottenham,Leicester City,Y,LW,88,0,0,0,0,2,1,0,0,28,7,0,1,1,0.2,0.2,0.0,2,1,12,15,80.0,49,21,131,2,2
+2020-07-26,Matchweek 38,Away,D 1–1,Tottenham,Crystal Palace,Y,LW,79,0,0,0,0,1,0,0,0,50,13,3,1,2,0.0,0.0,0.0,2,0,24,33,72.7,74,41,120,3,6
