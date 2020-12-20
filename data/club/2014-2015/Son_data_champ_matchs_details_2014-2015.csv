@@ -1,33 +1,33 @@
-﻿Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon
-2014-08-23,Sat,Bundesliga,Matchweek 1,Away,W 2–0,Leverkusen,Dortmund,Y,,76,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,,
-2014-08-30,Sat,Bundesliga,Matchweek 2,Home,W 4–2,Leverkusen,Hertha BSC,Y,,45,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,,
-2014-09-12,Fri,Bundesliga,Matchweek 3,Home,D 3–3,Leverkusen,Werder Bremen,N,,29,1,0,0,0,2,1,0,0,0,1,0,1,0,0,0,,
-2014-09-21,Sun,Bundesliga,Matchweek 4,Away,L 1–4,Leverkusen,Wolfsburg,N,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m
-2014-09-24,Wed,Bundesliga,Matchweek 5,Home,W 1–0,Leverkusen,Augsburg,Y,,90,1,0,0,0,4,1,0,0,0,0,0,0,1,0,0,,
-2014-09-27,Sat,Bundesliga,Matchweek 6,Away,D 0–0,Leverkusen,Freiburg,Y,,90,0,0,0,0,3,1,1,0,1,4,0,0,2,1,0,,
-2014-10-04,Sat,Bundesliga,Matchweek 7,Home,D 2–2,Leverkusen,Paderborn 07,Y,,90,0,0,0,0,2,0,1,0,3,4,0,4,0,1,0,,
-2014-10-18,Sat,Bundesliga,Matchweek 8,Away,D 3–3,Leverkusen,Stuttgart,Y,,90,2,1,0,0,4,3,0,0,2,1,1,4,1,0,0,,
-2014-10-25,Sat,Bundesliga,Matchweek 9,Home,W 1–0,Leverkusen,Schalke 04,Y,,90,0,0,0,0,3,0,0,0,0,1,0,2,1,1,0,,
-2014-11-01,Sat,Bundesliga,Matchweek 10,Away,L 0–1,Leverkusen,Hamburger SV,Y,,70,0,0,0,0,2,0,0,0,2,1,0,0,1,1,0,,
-2014-11-08,Sat,Bundesliga,Matchweek 11,Home,D 0–0,Leverkusen,Mainz 05,Y,,68,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,,
-2014-11-22,Sat,Bundesliga,Matchweek 12,Away,W 3–1,Leverkusen,Hannover 96,Y,,90,1,0,0,0,2,1,0,0,1,1,2,0,3,2,0,,
-2014-11-29,Sat,Bundesliga,Matchweek 13,Home,W 5–1,Leverkusen,Köln,Y,,90,0,1,0,0,4,1,0,0,2,2,0,0,1,1,0,,
-2014-12-06,Sat,Bundesliga,Matchweek 14,Away,L 0–1,Leverkusen,Bayern Munich,Y,,62,0,0,0,0,0,0,1,0,3,0,1,0,2,0,0,,
-2014-12-14,Sun,Bundesliga,Matchweek 15,Home,D 1–1,Leverkusen,M'Gladbach,Y,,57,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,
-2014-12-17,Wed,Bundesliga,Matchweek 16,Away,W 1–0,Leverkusen,Hoffenheim,Y,,90,0,0,0,0,4,2,0,0,1,0,0,2,2,2,0,,
-2014-12-20,Sat,Bundesliga,Matchweek 17,Home,D 1–1,Leverkusen,Eint Frankfurt,Y,,75,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,
-2015-02-08,Sun,Bundesliga,Matchweek 20,Away,L 1–2,Leverkusen,Werder Bremen,N,,45,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,,
-2015-02-14,Sat,Bundesliga,Matchweek 21,Home,L 4–5,Leverkusen,Wolfsburg,Y,,90,3,0,0,0,5,3,0,0,1,0,0,4,1,0,0,,
-2015-02-21,Sat,Bundesliga,Matchweek 22,Away,D 2–2,Leverkusen,Augsburg,Y,,74,0,0,0,0,3,1,0,0,1,1,0,0,2,1,0,,
-2015-02-28,Sat,Bundesliga,Matchweek 23,Home,W 1–0,Leverkusen,Freiburg,Y,,90,0,0,0,0,3,2,0,0,1,2,0,1,3,0,0,,
-2015-03-08,Sun,Bundesliga,Matchweek 24,Away,W 3–0,Leverkusen,Paderborn 07,Y,,90,2,0,0,0,3,2,0,0,0,1,1,6,0,2,0,,
-2015-03-13,Fri,Bundesliga,Matchweek 25,Home,W 4–0,Leverkusen,Stuttgart,Y,,90,0,0,0,0,1,1,0,0,2,2,2,0,0,0,0,,
-2015-03-21,Sat,Bundesliga,Matchweek 26,Away,W 1–0,Leverkusen,Schalke 04,Y,,45,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,,
-2015-04-04,Sat,Bundesliga,Matchweek 27,Home,W 4–0,Leverkusen,Hamburger SV,N,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m
-2015-04-11,Sat,Bundesliga,Matchweek 28,Away,W 3–2,Leverkusen,Mainz 05,Y,,90,1,0,0,0,2,1,0,0,0,0,0,0,0,1,0,,
-2015-04-18,Sat,Bundesliga,Matchweek 29,Home,W 4–0,Leverkusen,Hannover 96,Y,,90,0,0,0,0,1,1,0,0,2,3,0,0,1,2,0,,
-2015-04-25,Sat,Bundesliga,Matchweek 30,Away,D 1–1,Leverkusen,Köln,Y,,54,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,,
-2015-05-02,Sat,Bundesliga,Matchweek 31,Home,W 2–0,Leverkusen,Bayern Munich,Y,,90,0,0,0,0,4,1,0,0,3,3,0,0,3,1,0,,
-2015-05-09,Sat,Bundesliga,Matchweek 32,Away,L 0–3,Leverkusen,M'Gladbach,Y,,90,0,0,0,0,3,1,0,0,0,1,0,0,2,1,0,,
-2015-05-16,Sat,Bundesliga,Matchweek 33,Home,W 2–0,Leverkusen,Hoffenheim,Y,,60,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,,
-2015-05-23,Sat,Bundesliga,Matchweek 34,Away,L 1–2,Leverkusen,Eint Frankfurt,Y,,90,0,0,0,0,2,1,0,0,1,2,1,0,2,1,0,,
+Date,Day,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,SonTeamResult,Points_Won,SonTeamScore,OpponentTeamScore,Home_1_Away_0
+2014-08-23,Sat,Bundesliga,1,Away,W 2–0,Leverkusen,Dortmund,1,,76,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,,,W,3,2,0,0
+2014-08-30,Sat,Bundesliga,2,Home,W 4–2,Leverkusen,Hertha BSC,1,,45,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,,,W,3,4,2,1
+2014-09-12,Fri,Bundesliga,3,Home,D 3–3,Leverkusen,Werder Bremen,0,,29,1,0,0,0,2,1,0,0,0,1,0,1,0,0,0,,,D,1,3,3,1
+2014-09-21,Sun,Bundesliga,4,Away,L 1–4,Leverkusen,Wolfsburg,0,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,L,0,1,4,0
+2014-09-24,Wed,Bundesliga,5,Home,W 1–0,Leverkusen,Augsburg,1,,90,1,0,0,0,4,1,0,0,0,0,0,0,1,0,0,,,W,3,1,0,1
+2014-09-27,Sat,Bundesliga,6,Away,D 0–0,Leverkusen,Freiburg,1,,90,0,0,0,0,3,1,1,0,1,4,0,0,2,1,0,,,D,1,0,0,0
+2014-10-04,Sat,Bundesliga,7,Home,D 2–2,Leverkusen,Paderborn 07,1,,90,0,0,0,0,2,0,1,0,3,4,0,4,0,1,0,,,D,1,2,2,1
+2014-10-18,Sat,Bundesliga,8,Away,D 3–3,Leverkusen,Stuttgart,1,,90,2,1,0,0,4,3,0,0,2,1,1,4,1,0,0,,,D,1,3,3,0
+2014-10-25,Sat,Bundesliga,9,Home,W 1–0,Leverkusen,Schalke 04,1,,90,0,0,0,0,3,0,0,0,0,1,0,2,1,1,0,,,W,3,1,0,1
+2014-11-01,Sat,Bundesliga,10,Away,L 0–1,Leverkusen,Hamburger SV,1,,70,0,0,0,0,2,0,0,0,2,1,0,0,1,1,0,,,L,0,0,1,0
+2014-11-08,Sat,Bundesliga,11,Home,D 0–0,Leverkusen,Mainz 05,1,,68,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0,,,D,1,0,0,1
+2014-11-22,Sat,Bundesliga,12,Away,W 3–1,Leverkusen,Hannover 96,1,,90,1,0,0,0,2,1,0,0,1,1,2,0,3,2,0,,,W,3,3,1,0
+2014-11-29,Sat,Bundesliga,13,Home,W 5–1,Leverkusen,Köln,1,,90,0,1,0,0,4,1,0,0,2,2,0,0,1,1,0,,,W,3,5,1,1
+2014-12-06,Sat,Bundesliga,14,Away,L 0–1,Leverkusen,Bayern Munich,1,,62,0,0,0,0,0,0,1,0,3,0,1,0,2,0,0,,,L,0,0,1,0
+2014-12-14,Sun,Bundesliga,15,Home,D 1–1,Leverkusen,M'Gladbach,1,,57,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,,D,1,1,1,1
+2014-12-17,Wed,Bundesliga,16,Away,W 1–0,Leverkusen,Hoffenheim,1,,90,0,0,0,0,4,2,0,0,1,0,0,2,2,2,0,,,W,3,1,0,0
+2014-12-20,Sat,Bundesliga,17,Home,D 1–1,Leverkusen,Eint Frankfurt,1,,75,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,,,D,1,1,1,1
+2015-02-08,Sun,Bundesliga,20,Away,L 1–2,Leverkusen,Werder Bremen,0,,45,0,0,0,0,0,0,0,0,1,0,1,3,0,0,0,,,L,0,1,2,0
+2015-02-14,Sat,Bundesliga,21,Home,L 4–5,Leverkusen,Wolfsburg,1,,90,3,0,0,0,5,3,0,0,1,0,0,4,1,0,0,,,L,0,4,5,1
+2015-02-21,Sat,Bundesliga,22,Away,D 2–2,Leverkusen,Augsburg,1,,74,0,0,0,0,3,1,0,0,1,1,0,0,2,1,0,,,D,1,2,2,0
+2015-02-28,Sat,Bundesliga,23,Home,W 1–0,Leverkusen,Freiburg,1,,90,0,0,0,0,3,2,0,0,1,2,0,1,3,0,0,,,W,3,1,0,1
+2015-03-08,Sun,Bundesliga,24,Away,W 3–0,Leverkusen,Paderborn 07,1,,90,2,0,0,0,3,2,0,0,0,1,1,6,0,2,0,,,W,3,3,0,0
+2015-03-13,Fri,Bundesliga,25,Home,W 4–0,Leverkusen,Stuttgart,1,,90,0,0,0,0,1,1,0,0,2,2,2,0,0,0,0,,,W,3,4,0,1
+2015-03-21,Sat,Bundesliga,26,Away,W 1–0,Leverkusen,Schalke 04,1,,45,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,,,W,3,1,0,0
+2015-04-04,Sat,Bundesliga,27,Home,W 4–0,Leverkusen,Hamburger SV,0,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,W,3,4,0,1
+2015-04-11,Sat,Bundesliga,28,Away,W 3–2,Leverkusen,Mainz 05,1,,90,1,0,0,0,2,1,0,0,0,0,0,0,0,1,0,,,W,3,3,2,0
+2015-04-18,Sat,Bundesliga,29,Home,W 4–0,Leverkusen,Hannover 96,1,,90,0,0,0,0,1,1,0,0,2,3,0,0,1,2,0,,,W,3,4,0,1
+2015-04-25,Sat,Bundesliga,30,Away,D 1–1,Leverkusen,Köln,1,,54,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,,,D,1,1,1,0
+2015-05-02,Sat,Bundesliga,31,Home,W 2–0,Leverkusen,Bayern Munich,1,,90,0,0,0,0,4,1,0,0,3,3,0,0,3,1,0,,,W,3,2,0,1
+2015-05-09,Sat,Bundesliga,32,Away,L 0–3,Leverkusen,M'Gladbach,1,,90,0,0,0,0,3,1,0,0,0,1,0,0,2,1,0,,,L,0,0,3,0
+2015-05-16,Sat,Bundesliga,33,Home,W 2–0,Leverkusen,Hoffenheim,1,,60,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,,,W,3,2,0,1
+2015-05-23,Sat,Bundesliga,34,Away,L 1–2,Leverkusen,Eint Frankfurt,1,,90,0,0,0,0,2,1,0,0,1,2,1,0,2,1,0,,,L,0,1,2,0
