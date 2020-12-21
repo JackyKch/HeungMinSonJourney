@@ -1,14 +1,14 @@
-Date,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,SonTeamResult,SonTeamScore,OpponentTeamScore,Home_1_Away_0
-2010-10-30,Bundesliga,10,Away,L 2–3,Hamburger SV,Köln,1,,90,1,,0,,,,0,0,,,,,,,0,,,L,2,3,0
-2010-11-06,Bundesliga,11,Home,W 2–1,Hamburger SV,Hoffenheim,0,,16,0,,0,,,,0,0,,,,,,,0,,,W,2,1,1
-2010-11-12,Bundesliga,12,Away,L 0–2,Hamburger SV,Dortmund,0,,25,0,,0,,,,0,0,,,,,,,0,,,L,0,2,0
-2010-11-20,Bundesliga,13,Away,L 2–3,Hamburger SV,Hannover 96,1,,90,2,,0,,,,0,0,,,,,,,0,,,L,2,3,0
-2010-11-27,Bundesliga,14,Home,W 4–2,Hamburger SV,Stuttgart,1,,58,0,,0,,,,0,0,,,,,,,0,,,W,4,2,1
-2010-12-04,Bundesliga,15,Away,L 0–1,Hamburger SV,Freiburg,1,,90,0,,0,,,,0,0,,,,,,,0,,,L,0,1,0
-2010-12-11,Bundesliga,16,Home,L 2–4,Hamburger SV,Leverkusen,0,,14,0,,0,,,,0,0,,,,,,,0,,,L,2,4,1
-2011-02-19,Bundesliga,23,Home,W 4–0,Hamburger SV,Werder Bremen,1,,83,0,,0,,,,1,0,,,,,,,0,,,W,4,0,1
-2011-03-19,Bundesliga,27,Home,W 6–2,Hamburger SV,Köln,0,,30,0,,0,,,,0,0,,,,,,,0,,,W,6,2,1
-2011-04-02,Bundesliga,28,Away,D 0–0,Hamburger SV,Hoffenheim,1,,63,0,,0,,,,0,0,,,,,,,0,,,D,0,0,0
-2011-04-23,Bundesliga,31,Away,L 0–3,Hamburger SV,Stuttgart,0,,10,0,,0,,,,0,0,,,,,,,0,,,L,0,3,0
-2011-04-30,Bundesliga,32,Home,L 0–2,Hamburger SV,Freiburg,1,,90,0,,0,,,,0,0,,,,,,,0,,,L,0,2,1
-2011-05-07,Bundesliga,33,Away,D 1–1,Hamburger SV,Leverkusen,1,,60,0,,0,,,,0,0,,,,,,,0,,,D,1,1,0
+Date,Comp,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,SonTeamResult,SonTeamScore,OpponentTeamScore,Home_1_Away_0,Points_Won
+2010-10-30,Bundesliga,10,Away,L 2–3,Hamburger SV,Köln,1,,90,1,,0,,,,0,0,,,,,,,0,,,L,2,3,0,0
+2010-11-06,Bundesliga,11,Home,W 2–1,Hamburger SV,Hoffenheim,0,,16,0,,0,,,,0,0,,,,,,,0,,,W,2,1,1,3
+2010-11-12,Bundesliga,12,Away,L 0–2,Hamburger SV,Dortmund,0,,25,0,,0,,,,0,0,,,,,,,0,,,L,0,2,0,0
+2010-11-20,Bundesliga,13,Away,L 2–3,Hamburger SV,Hannover 96,1,,90,2,,0,,,,0,0,,,,,,,0,,,L,2,3,0,0
+2010-11-27,Bundesliga,14,Home,W 4–2,Hamburger SV,Stuttgart,1,,58,0,,0,,,,0,0,,,,,,,0,,,W,4,2,1,3
+2010-12-04,Bundesliga,15,Away,L 0–1,Hamburger SV,Freiburg,1,,90,0,,0,,,,0,0,,,,,,,0,,,L,0,1,0,0
+2010-12-11,Bundesliga,16,Home,L 2–4,Hamburger SV,Leverkusen,0,,14,0,,0,,,,0,0,,,,,,,0,,,L,2,4,1,0
+2011-02-19,Bundesliga,23,Home,W 4–0,Hamburger SV,Werder Bremen,1,,83,0,,0,,,,1,0,,,,,,,0,,,W,4,0,1,3
+2011-03-19,Bundesliga,27,Home,W 6–2,Hamburger SV,Köln,0,,30,0,,0,,,,0,0,,,,,,,0,,,W,6,2,1,3
+2011-04-02,Bundesliga,28,Away,D 0–0,Hamburger SV,Hoffenheim,1,,63,0,,0,,,,0,0,,,,,,,0,,,D,0,0,0,1
+2011-04-23,Bundesliga,31,Away,L 0–3,Hamburger SV,Stuttgart,0,,10,0,,0,,,,0,0,,,,,,,0,,,L,0,3,0,0
+2011-04-30,Bundesliga,32,Home,L 0–2,Hamburger SV,Freiburg,1,,90,0,,0,,,,0,0,,,,,,,0,,,L,0,2,1,0
+2011-05-07,Bundesliga,33,Away,D 1–1,Hamburger SV,Leverkusen,1,,60,0,,0,,,,0,0,,,,,,,0,,,D,1,1,0,1
