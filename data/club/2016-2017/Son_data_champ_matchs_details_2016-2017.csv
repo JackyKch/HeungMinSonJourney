@@ -1,35 +1,35 @@
-﻿Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon
-2016-09-10,Matchweek 4,Away,W 4–0,Tottenham,Stoke City,Y,AM,90,2,1,0,0,3,2,0,0,0,2,0,2,0,0,0,0,0
-2016-09-18,Matchweek 5,Home,W 1–0,Tottenham,Sunderland,Y,AM,90,0,0,0,0,7,2,0,0,0,3,0,15,0,0,0,0,0
-2016-09-24,Matchweek 6,Away,W 2–1,Tottenham,Middlesbrough,Y,FW,90,2,0,0,0,4,2,0,0,2,2,1,9,1,1,0,0,0
-2016-10-02,Matchweek 7,Home,W 2–0,Tottenham,Manchester City,Y,FW,90,0,1,0,0,4,1,0,0,0,0,5,3,0,0,0,0,0
-2016-10-15,Matchweek 8,Away,D 1–1,Tottenham,West Brom,N,,18,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0
-2016-10-22,Matchweek 9,Away,D 0–0,Tottenham,Bournemouth,Y,FW,62,0,0,0,0,1,0,0,0,1,1,2,0,0,0,0,0,0
-2016-10-29,Matchweek 10,Home,D 1–1,Tottenham,Leicester City,Y,AM,90,0,0,0,0,2,1,1,0,1,1,2,3,1,1,0,0,0
-2016-11-06,Matchweek 11,Away,D 1–1,Tottenham,Arsenal,Y,AM,89,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-2016-11-19,Matchweek 12,Home,W 3–2,Tottenham,West Ham,N,,18,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0
-2016-11-26,Matchweek 13,Away,L 1–2,Tottenham,Chelsea,Y,AM,65,0,0,0,0,1,0,0,0,2,2,1,0,0,0,0,0,0
-2016-12-03,Matchweek 14,Home,W 5–0,Tottenham,Swansea City,Y,AM,72,1,1,0,0,3,1,0,0,1,1,1,2,0,0,0,0,0
-2016-12-11,Matchweek 15,Away,L 0–1,Tottenham,Manchester Utd,Y,AM,57,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0
-2016-12-14,Matchweek 16,Home,W 3–0,Tottenham,Hull City,N,,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-12-18,Matchweek 17,Home,W 2–1,Tottenham,Burnley,N,,17,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-2016-12-28,Matchweek 18,Away,W 4–1,Tottenham,Southampton,N,,16,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
-2017-01-01,Matchweek 19,Away,W 4–1,Tottenham,Watford,Y,FW,90,0,0,0,0,5,1,0,0,0,2,1,1,1,0,0,0,0
-2017-01-04,Matchweek 20,Home,W 2–0,Tottenham,Chelsea,N,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-14,Matchweek 21,Home,W 4–0,Tottenham,West Brom,N,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-21,Matchweek 22,Away,D 2–2,Tottenham,Manchester City,N,,45,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0
-2017-01-31,Matchweek 23,Away,D 0–0,Tottenham,Sunderland,Y,AM,73,0,0,0,0,1,0,0,0,1,1,2,4,0,0,0,0,0
-2017-02-04,Matchweek 24,Home,W 1–0,Tottenham,Middlesbrough,Y,AM,81,0,0,0,0,3,1,0,0,0,3,1,6,1,0,0,1,0
-2017-02-11,Matchweek 25,Away,L 0–2,Tottenham,Liverpool,Y,AM,82,0,0,0,0,2,2,1,0,0,1,0,1,1,1,0,0,0
-2017-02-26,Matchweek 26,Home,W 4–0,Tottenham,Stoke City,N,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-03-19,Matchweek 29,Home,W 2–1,Tottenham,Southampton,Y,FW,75,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0
-2017-04-01,Matchweek 30,Away,W 2–0,Tottenham,Burnley,N,,17,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
-2017-04-05,Matchweek 31,Away,W 3–1,Tottenham,Swansea City,Y,FW,90,1,0,0,0,5,2,0,0,0,0,2,1,0,0,0,0,0
-2017-04-08,Matchweek 32,Home,W 4–0,Tottenham,Watford,Y,AM,88,2,1,0,0,6,2,0,0,1,2,0,2,1,0,0,0,0
-2017-04-15,Matchweek 33,Home,W 4–0,Tottenham,Bournemouth,Y,AM,90,1,0,0,0,5,3,0,0,0,0,1,3,0,0,0,0,0
-2017-04-26,Matchweek 28,Away,W 1–0,Tottenham,Crystal Palace,N,,45,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
-2017-04-30,Matchweek 35,Home,W 2–0,Tottenham,Arsenal,Y,AM,79,0,0,0,0,3,0,0,0,0,1,1,0,3,0,0,0,0
-2017-05-05,Matchweek 36,Away,L 0–1,Tottenham,West Ham,Y,AM,90,0,0,0,0,1,1,0,0,0,1,0,1,3,1,0,0,0
-2017-05-14,Matchweek 37,Home,W 2–1,Tottenham,Manchester Utd,Y,AM,72,0,0,0,0,4,2,0,0,0,2,0,0,0,1,0,0,0
-2017-05-18,Matchweek 34,Away,W 6–1,Tottenham,Leicester City,Y,AM,78,2,1,0,0,5,2,0,0,0,1,1,1,0,1,0,0,0
-2017-05-21,Matchweek 38,Away,W 7–1,Tottenham,Hull City,Y,AM,90,0,1,0,0,2,2,0,0,0,1,0,2,1,1,0,0,0
+Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,SonTeamResult,Points_Won,SonTeamScore,OpponentTeamScore,Home_1_Away_0
+2016-09-10,4,Away,W 4–0,Tottenham,Stoke City,1,AM,90.0,2,1,0,0,3,2,0,0,0,2,0,2,0,0,0,0,0,W,3,4,0,0
+2016-09-18,5,Home,W 1–0,Tottenham,Sunderland,1,AM,90.0,0,0,0,0,7,2,0,0,0,3,0,15,0,0,0,0,0,W,3,1,0,1
+2016-09-24,6,Away,W 2–1,Tottenham,Middlesbrough,1,FW,90.0,2,0,0,0,4,2,0,0,2,2,1,9,1,1,0,0,0,W,3,2,1,0
+2016-10-02,7,Home,W 2–0,Tottenham,Manchester City,1,FW,90.0,0,1,0,0,4,1,0,0,0,0,5,3,0,0,0,0,0,W,3,2,0,1
+2016-10-15,8,Away,D 1–1,Tottenham,West Brom,0,,18.0,0,0,0,0,1,0,0,0,0,2,0,3,0,0,0,0,0,D,1,1,1,0
+2016-10-22,9,Away,D 0–0,Tottenham,Bournemouth,1,FW,62.0,0,0,0,0,1,0,0,0,1,1,2,0,0,0,0,0,0,D,1,0,0,0
+2016-10-29,10,Home,D 1–1,Tottenham,Leicester City,1,AM,90.0,0,0,0,0,2,1,1,0,1,1,2,3,1,1,0,0,0,D,1,1,1,1
+2016-11-06,11,Away,D 1–1,Tottenham,Arsenal,1,AM,89.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D,1,1,1,0
+2016-11-19,12,Home,W 3–2,Tottenham,West Ham,0,,18.0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,0,W,3,3,2,1
+2016-11-26,13,Away,L 1–2,Tottenham,Chelsea,1,AM,65.0,0,0,0,0,1,0,0,0,2,2,1,0,0,0,0,0,0,L,0,1,2,0
+2016-12-03,14,Home,W 5–0,Tottenham,Swansea City,1,AM,72.0,1,1,0,0,3,1,0,0,1,1,1,2,0,0,0,0,0,W,3,5,0,1
+2016-12-11,15,Away,L 0–1,Tottenham,Manchester Utd,1,AM,57.0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,L,0,0,1,0
+2016-12-14,16,Home,W 3–0,Tottenham,Hull City,0,,16.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,W,3,3,0,1
+2016-12-18,17,Home,W 2–1,Tottenham,Burnley,0,,17.0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,W,3,2,1,1
+2016-12-28,18,Away,W 4–1,Tottenham,Southampton,0,,16.0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,W,3,4,1,0
+2017-01-01,19,Away,W 4–1,Tottenham,Watford,1,FW,90.0,0,0,0,0,5,1,0,0,0,2,1,1,1,0,0,0,0,W,3,4,1,0
+2017-01-04,20,Home,W 2–0,Tottenham,Chelsea,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,W,3,2,0,1
+2017-01-14,21,Home,W 4–0,Tottenham,West Brom,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,W,3,4,0,1
+2017-01-21,22,Away,D 2–2,Tottenham,Manchester City,0,,45.0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,D,1,2,2,0
+2017-01-31,23,Away,D 0–0,Tottenham,Sunderland,1,AM,73.0,0,0,0,0,1,0,0,0,1,1,2,4,0,0,0,0,0,D,1,0,0,0
+2017-02-04,24,Home,W 1–0,Tottenham,Middlesbrough,1,AM,81.0,0,0,0,0,3,1,0,0,0,3,1,6,1,0,0,1,0,W,3,1,0,1
+2017-02-11,25,Away,L 0–2,Tottenham,Liverpool,1,AM,82.0,0,0,0,0,2,2,1,0,0,1,0,1,1,1,0,0,0,L,0,0,2,0
+2017-02-26,26,Home,W 4–0,Tottenham,Stoke City,0,,4.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,W,3,4,0,1
+2017-03-19,29,Home,W 2–1,Tottenham,Southampton,1,FW,75.0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,W,3,2,1,1
+2017-04-01,30,Away,W 2–0,Tottenham,Burnley,0,,17.0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,W,3,2,0,0
+2017-04-05,31,Away,W 3–1,Tottenham,Swansea City,1,FW,90.0,1,0,0,0,5,2,0,0,0,0,2,1,0,0,0,0,0,W,3,3,1,0
+2017-04-08,32,Home,W 4–0,Tottenham,Watford,1,AM,88.0,2,1,0,0,6,2,0,0,1,2,0,2,1,0,0,0,0,W,3,4,0,1
+2017-04-15,33,Home,W 4–0,Tottenham,Bournemouth,1,AM,90.0,1,0,0,0,5,3,0,0,0,0,1,3,0,0,0,0,0,W,3,4,0,1
+2017-04-26,28,Away,W 1–0,Tottenham,Crystal Palace,0,,45.0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,W,3,1,0,0
+2017-04-30,35,Home,W 2–0,Tottenham,Arsenal,1,AM,79.0,0,0,0,0,3,0,0,0,0,1,1,0,3,0,0,0,0,W,3,2,0,1
+2017-05-05,36,Away,L 0–1,Tottenham,West Ham,1,AM,90.0,0,0,0,0,1,1,0,0,0,1,0,1,3,1,0,0,0,L,0,0,1,0
+2017-05-14,37,Home,W 2–1,Tottenham,Manchester Utd,1,AM,72.0,0,0,0,0,4,2,0,0,0,2,0,0,0,1,0,0,0,W,3,2,1,1
+2017-05-18,34,Away,W 6–1,Tottenham,Leicester City,1,AM,78.0,2,1,0,0,5,2,0,0,0,1,1,1,0,1,0,0,0,W,3,6,1,0
+2017-05-21,38,Away,W 7–1,Tottenham,Hull City,1,AM,90.0,0,1,0,0,2,2,0,0,0,1,0,2,1,1,0,0,0,W,3,7,1,0
