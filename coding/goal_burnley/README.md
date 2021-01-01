@@ -13,5 +13,5 @@ Using MatPlotlib and FC Python's Event Tagger, I tried to reproduce Son's route 
 ![SonGoalPlotted](https://github.com/JackyKch/HeungMinSonEvolution/blob/master/coding/goal_burnley/goalvideo.gif)
 
 > ## Possible Improvements 
-One way to improve would be to add a delay between each plot that would match the delay between each Son's touches.
-Another way to improve this would be to use directly the goal's video and collect the coordinates in live directly from the video. 
+- One way to improve would be to add a delay between each plot that would match the delay between each Son's touches.
+- Another way to improve this would be to use directly the goal's video and collect the coordinates in live directly from the video using object tracking.
