@@ -1,10 +1,10 @@
 Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Fls,Fld,Off,Crs,TklW,Int,OG,PKwon,PKcon,SonTeamResult,Points_Won,SonTeamScore,OpponentTeamScore,Home_1_Away_0
-2015-09-13,5,Away,W 1–0,Tottenham,Sunderland,1,AM,62,0,0,0,0,2,0,0,0,1,1,0,5,1,1,0,,,W,3,1,0,0
-2015-09-20,6,Home,W 1–0,Tottenham,Crystal Palace,1,AM,79,1,0,0,0,5,2,0,0,1,1,1,0,3,1,0,,,W,3,1,0,1
-2015-09-26,7,Home,W 4–1,Tottenham,Manchester City,1,AM,77,0,0,0,0,2,2,0,0,0,1,3,1,2,2,0,,,W,3,4,1,1
+2015-09-13,5,Away,W 1–0,Tottenham,Sunderland,0,AM,62,0,0,0,0,2,0,0,0,1,1,0,5,1,1,0,,,W,3,1,0,0
+2015-09-20,6,Home,W 1–0,Tottenham,Crystal Palace,0,AM,79,1,0,0,0,5,2,0,0,1,1,1,0,3,1,0,,,W,3,1,0,1
+2015-09-26,7,Home,W 4–1,Tottenham,Manchester City,0,AM,77,0,0,0,0,2,2,0,0,0,1,3,1,2,2,0,,,W,3,4,1,1
 2015-11-08,12,Away,D 1–1,Tottenham,Arsenal,0,,15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,,D,1,1,1,0
-2015-11-22,13,Home,W 4–1,Tottenham,West Ham,1,AM,85,0,1,0,0,3,2,0,0,0,0,1,0,4,1,0,,,W,3,4,1,1
-2015-11-29,14,Home,D 0–0,Tottenham,Chelsea,1,AM,75,0,0,0,0,4,2,0,0,1,2,1,1,0,1,0,,,D,1,0,0,1
+2015-11-22,13,Home,W 4–1,Tottenham,West Ham,0,AM,85,0,1,0,0,3,2,0,0,0,0,1,0,4,1,0,,,W,3,4,1,1
+2015-11-29,14,Home,D 0–0,Tottenham,Chelsea,0,AM,75,0,0,0,0,4,2,0,0,1,2,1,1,0,1,0,,,D,1,0,0,1
 2015-12-05,15,Away,D 1–1,Tottenham,West Brom,0,,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,D,1,1,1,0
 2015-12-13,16,Home,L 1–2,Tottenham,Newcastle Utd,0,,21,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,,,L,0,1,2,1
 2015-12-19,17,Away,W 2–0,Tottenham,Southampton,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,W,3,2,0,0
@@ -13,19 +13,19 @@ Date,Round,Venue,Result,Squad,Opponent,Start,Pos,Min,Gls,Ast,PK,PKatt,Sh,SoT,Crd
 2016-01-03,20,Away,D 1–1,Tottenham,Everton,0,,21,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,,,D,1,1,1,0
 2016-01-13,21,Home,L 0–1,Tottenham,Leicester City,0,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,L,0,0,1,1
 2016-01-16,22,Home,W 4–1,Tottenham,Sunderland,0,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,W,3,4,1,1
-2016-01-23,23,Away,W 3–1,Tottenham,Crystal Palace,1,AM,90,0,0,0,0,2,0,0,0,2,2,0,0,1,1,0,,,W,3,3,1,0
-2016-02-02,24,Away,W 3–0,Tottenham,Norwich City,1,AM,70,0,0,0,0,2,0,0,0,1,0,0,0,3,0,0,,,W,3,3,0,0
+2016-01-23,23,Away,W 3–1,Tottenham,Crystal Palace,0,AM,90,0,0,0,0,2,0,0,0,2,2,0,0,1,1,0,,,W,3,3,1,0
+2016-02-02,24,Away,W 3–0,Tottenham,Norwich City,0,AM,70,0,0,0,0,2,0,0,0,1,0,0,0,3,0,0,,,W,3,3,0,0
 2016-02-06,25,Home,W 1–0,Tottenham,Watford,0,,18,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,,,W,3,1,0,1
-2016-02-14,26,Away,W 2–1,Tottenham,Manchester City,1,AM,72,0,0,0,0,0,0,0,0,1,0,1,0,5,0,0,,,W,3,2,1,0
-2016-02-28,27,Home,W 2–1,Tottenham,Swansea City,1,AM,75,0,0,0,0,1,1,0,0,0,1,0,2,0,0,0,,,W,3,2,1,1
+2016-02-14,26,Away,W 2–1,Tottenham,Manchester City,0,AM,72,0,0,0,0,0,0,0,0,1,0,1,0,5,0,0,,,W,3,2,1,0
+2016-02-28,27,Home,W 2–1,Tottenham,Swansea City,0,AM,75,0,0,0,0,1,1,0,0,0,1,0,2,0,0,0,,,W,3,2,1,1
 2016-03-02,28,Away,L 0–1,Tottenham,West Ham,0,,20,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,,,L,0,0,1,0
 2016-03-05,29,Home,D 2–2,Tottenham,Arsenal,0,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,D,1,2,2,1
 2016-03-13,30,Away,W 2–0,Tottenham,Aston Villa,0,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,W,3,2,0,0
 2016-03-20,31,Home,W 3–0,Tottenham,Bournemouth,0,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,On m,W,3,3,0,1
-2016-04-02,32,Away,D 1–1,Tottenham,Liverpool,1,CM,66,0,0,0,0,3,0,0,0,2,0,1,3,0,1,0,,,D,1,1,1,0
+2016-04-02,32,Away,D 1–1,Tottenham,Liverpool,0,CM,66,0,0,0,0,3,0,0,0,2,0,1,3,0,1,0,,,D,1,1,1,0
 2016-04-10,33,Home,W 3–0,Tottenham,Manchester Utd,0,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,W,3,3,0,1
 2016-04-18,34,Away,W 4–0,Tottenham,Stoke City,0,,,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,,,W,3,4,0,0
 2016-04-25,35,Home,D 1–1,Tottenham,West Brom,0,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,D,1,1,1,1
-2016-05-02,36,Away,D 2–2,Tottenham,Chelsea,1,AM,65,1,0,0,0,5,1,0,0,1,0,0,0,2,2,0,,,D,1,2,2,0
-2016-05-08,37,Home,L 1–2,Tottenham,Southampton,1,AM,65,1,0,0,0,1,1,0,0,0,1,0,2,0,1,0,,,L,0,1,2,1
-2016-05-15,38,Away,L 1–5,Tottenham,Newcastle Utd,1,FW,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,L,0,1,5,0
+2016-05-02,36,Away,D 2–2,Tottenham,Chelsea,0,AM,65,1,0,0,0,5,1,0,0,1,0,0,0,2,2,0,,,D,1,2,2,0
+2016-05-08,37,Home,L 1–2,Tottenham,Southampton,0,AM,65,1,0,0,0,1,1,0,0,0,1,0,2,0,1,0,,,L,0,1,2,1
+2016-05-15,38,Away,L 1–5,Tottenham,Newcastle Utd,0,FW,45,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,,L,0,1,5,0
