@@ -9,7 +9,7 @@ Since his debut at Hamburg, then at Leverkusen and then finally at Spurs, Son ha
 
 >### Objective
 
-With this project, we are trying to understand on which points Son improved to get to this level and see if we can explain this thanks to different datas. 
+With this project, we are trying to understand on which points Son improved to get to this level and see if we can explain this thanks to different data. 
 To do so, we will be using various Machine Learning algorithms and Data Visualization to present the results of this study. 
 
 
