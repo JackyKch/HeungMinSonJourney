@@ -12,6 +12,7 @@ Since his debut at Hamburg, then at Leverkusen and then finally at Spurs, Son ha
 With this project, we are trying to understand on which points Son improved to get to this level and see if we can explain this thanks to different data. 
 To do so, we will be using various Machine Learning algorithms and Data Visualization to present the results of this study. 
 Finally, to conclude this project, I decided to write an article in which I present the results found and my analysis on this project. 
+
 You can find the article by clicking [here](https://jackykch.github.io/MyPortfolio/articles/heungmin_son_journey.html).
 
 ![alt text](https://tot-tmp.azureedge.net/media/7138/firstteam-heungminson-1718-6.jpg)
